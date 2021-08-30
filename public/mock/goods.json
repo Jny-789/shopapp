@@ -1,0 +1,130 @@
+{
+  "goods": [
+    {
+      "img": "../goods/乳品.png",
+      "name": "乳品1",
+      "type": "乳品",
+      "sale": 18,
+      "price": 66,
+      "num": 0,
+      "id": 1
+    },
+    {
+      "img": "../goods/水果.png",
+      "name": "水果1",
+      "type": "水果",
+      "sale": 18,
+      "price": 20,
+      "num": 0,
+      "id": 2
+    },
+    {
+      "img": "../goods/肉蛋.png",
+      "name": "肉蛋1",
+      "type": "肉蛋",
+      "sale": 18,
+      "price": 35,
+      "num": 0,
+      "id": 3
+    },
+    {
+      "img": "../goods/蔬菜.png",
+      "name": "蔬菜1",
+      "type": "蔬菜",
+      "sale": 18,
+      "price": 10,
+      "num": 0,
+      "id": 4
+    },
+    {
+      "img": "../goods/速冻.png",
+      "name": "速冻1",
+      "type": "速冻",
+      "sale": 40,
+      "price": 40,
+      "num": 0,
+      "id": 5
+    },
+    {
+      "img": "../goods/酒饮.png",
+      "name": "酒饮1",
+      "type": "酒饮",
+      "sale": 18,
+      "price": 66,
+      "num": 0,
+      "id": 6
+    },
+    {
+      "img": "../goods/零食.png",
+      "name": "零食1",
+      "type": "零食",
+      "sale": 18,
+      "price": 17,
+      "num": 0,
+      "id": 7
+    },
+    {
+      "img": "../goods/乳品.png",
+      "name": "乳品2",
+      "type": "乳品",
+      "sale": 18,
+      "price": 78,
+      "num": 0,
+      "id": 8
+    },
+    {
+      "img": "../goods/水果.png",
+      "name": "水果2",
+      "type": "水果",
+      "sale": 18,
+      "price": 16,
+      "num": 0,
+      "id": 9
+    },
+    {
+      "img": "../goods/肉蛋.png",
+      "name": "肉蛋2",
+      "type": "肉蛋",
+      "sale": 18,
+      "price": 43,
+      "num": 0,
+      "id": 10
+    },
+    {
+      "img": "../goods/蔬菜.png",
+      "name": "蔬菜2",
+      "type": "蔬菜",
+      "sale": 18,
+      "price": 21,
+      "num": 0,
+      "id": 11
+    },
+    {
+      "img": "../goods/速冻.png",
+      "name": "速冻2",
+      "type": "速冻",
+      "sale": 40,
+      "price": 45,
+      "num": 0,
+      "id": 12
+    },
+    {
+      "img": "../goods/酒饮.png",
+      "name": "酒饮2",
+      "type": "酒饮",
+      "sale": 18,
+      "price": 76,
+      "num": 0,
+      "id": 13
+    },
+    {
+      "img": "../goods/零食.png",
+      "name": "零食2",
+      "type": "零食",
+      "sale": 18,
+      "price": 23,
+      "num": 0,
+      "id": 14
+    }
+  ]
+}
